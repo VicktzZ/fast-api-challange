@@ -1,7 +1,7 @@
 # Python Fast API
 
 ## Diretrizes do desafio
-Por favor organize, design, faça a documentação e deploy do seu código da forma como se ele fosse para produção, depois me envie um link do repositório no Github.
+Por favor organize, design, faça a documentação e deploy do seu código da forma como se ele fosse para produção, depois envie um link do repositório no Github.
 
 ## Tarefa (funcional)
 Você deve construir uma CRUD de um catálogo de games.
